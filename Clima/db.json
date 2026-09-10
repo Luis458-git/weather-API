@@ -1,0 +1,485 @@
+{
+  "evaluaciones": [
+    {
+      "id": "1",
+      "fecha": "2026-09-10T14:00:00.000Z",
+      "temperatura": 24,
+      "humedad": 72,
+      "precipitacion": 0,
+      "viento": 12,
+      "riesgo": "Realizar",
+      "recomendacion": "🟢 Realizar"
+    },
+    {
+      "id": "2",
+      "fecha": "2026-09-10T13:00:00.000Z",
+      "temperatura": 28,
+      "humedad": 80,
+      "precipitacion": 1.2,
+      "viento": 22,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución"
+    },
+    {
+      "id": "3",
+      "fecha": "2026-09-10T12:00:00.000Z",
+      "temperatura": 32,
+      "humedad": 90,
+      "precipitacion": 6.5,
+      "viento": 45,
+      "riesgo": "Reprogramar",
+      "recomendacion": "🔴 Reprogramar"
+    },
+    {
+      "temperatura": 23.7,
+      "humedad": 70,
+      "precipitacion": 0.1,
+      "viento": 3.4,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:17:09.042Z",
+      "id": "z22feWZlttg"
+    },
+    {
+      "temperatura": 23.7,
+      "humedad": 70,
+      "precipitacion": 0.1,
+      "viento": 3.4,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:17:09.205Z",
+      "id": "BYXs3WMI-eM"
+    },
+    {
+      "temperatura": 23.7,
+      "humedad": 70,
+      "precipitacion": 0.1,
+      "viento": 3.4,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:18:39.429Z",
+      "id": "-wSLflbM0E4"
+    },
+    {
+      "temperatura": 23.7,
+      "humedad": 70,
+      "precipitacion": 0.1,
+      "viento": 3.4,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:18:43.102Z",
+      "id": "8T3HK09plXY"
+    },
+    {
+      "temperatura": 23.7,
+      "humedad": 70,
+      "precipitacion": 0.1,
+      "viento": 3.4,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:18:43.955Z",
+      "id": "GNDo_j5pP_s"
+    },
+    {
+      "temperatura": 23.7,
+      "humedad": 70,
+      "precipitacion": 0.1,
+      "viento": 3.4,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:18:44.581Z",
+      "id": "B3pM9xEWGNs"
+    },
+    {
+      "temperatura": 23.7,
+      "humedad": 70,
+      "precipitacion": 0.1,
+      "viento": 3.4,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:20:46.790Z",
+      "id": "B_wH79OQrA4"
+    },
+    {
+      "temperatura": 23.7,
+      "humedad": 70,
+      "precipitacion": 0.1,
+      "viento": 3.4,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:29:37.299Z",
+      "id": "pFkYu46BSSg"
+    },
+    {
+      "temperatura": 23.7,
+      "humedad": 70,
+      "precipitacion": 0.1,
+      "viento": 3.4,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:29:38.041Z",
+      "id": "v07FqErjKVI"
+    },
+    {
+      "temperatura": 23.7,
+      "humedad": 70,
+      "precipitacion": 0.1,
+      "viento": 3.4,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:29:38.725Z",
+      "id": "T2SilxlT5po"
+    },
+    {
+      "temperatura": 23.7,
+      "humedad": 70,
+      "precipitacion": 0.1,
+      "viento": 3.4,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:29:39.390Z",
+      "id": "zmeVD4Y-eNE"
+    },
+    {
+      "temperatura": 23.7,
+      "humedad": 70,
+      "precipitacion": 0.1,
+      "viento": 3.4,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:29:40.052Z",
+      "id": "Ijg6_I7Em50"
+    },
+    {
+      "temperatura": 23.7,
+      "humedad": 70,
+      "precipitacion": 0.1,
+      "viento": 3.4,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:29:40.577Z",
+      "id": "iOTIJhD2tmw"
+    },
+    {
+      "temperatura": 23.7,
+      "humedad": 70,
+      "precipitacion": 0.1,
+      "viento": 3.4,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:29:40.962Z",
+      "id": "c7mBs7UnwSo"
+    },
+    {
+      "temperatura": 23.7,
+      "humedad": 70,
+      "precipitacion": 0.1,
+      "viento": 3.4,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:29:41.698Z",
+      "id": "dQWFlsCVMeI"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:30:49.831Z",
+      "id": "eIj9IYVJw5s"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:30:50.497Z",
+      "id": "ZUf3LY17oSQ"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:30:51.029Z",
+      "id": "uHpykIc2UK8"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:30:51.430Z",
+      "id": "op_bk11zHcI"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:30:51.919Z",
+      "id": "0FqhFT0j5AQ"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:33:34.776Z",
+      "id": "kjswSIo1yqE"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:33:36.488Z",
+      "id": "DFcpIjQ3UPo"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:35:38.818Z",
+      "id": "CC0DavvVd18"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:35:38.942Z",
+      "id": "rycbrAwhi3k"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:38:34.599Z",
+      "id": "uo0KRdAA7Ak"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:38:35.683Z",
+      "id": "wC-agYLt6x4"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:38:36.314Z",
+      "id": "L1XZClDmcAg"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:38:37.075Z",
+      "id": "knLEYfrRjds"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:38:37.698Z",
+      "id": "TtTj2dgf1rw"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:38:38.121Z",
+      "id": "P4JxnCXRGVY"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:38:38.579Z",
+      "id": "Q8sm2B8otl0"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:38:39.050Z",
+      "id": "ZS0iI9DVMzI"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:38:39.894Z",
+      "id": "vygL0HNejFM"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:38:40.498Z",
+      "id": "5iQhlnOKTS4"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:38:40.994Z",
+      "id": "KBzdaKkf5l8"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:38:41.451Z",
+      "id": "zgaaUPm5CqQ"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:38:41.978Z",
+      "id": "4fMDsihWHw0"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:41:11.923Z",
+      "id": "dUOofdkIXus"
+    },
+    {
+      "temperatura": 23.2,
+      "humedad": 72,
+      "precipitacion": 0.1,
+      "viento": 2.8,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:41:12.421Z",
+      "id": "Drm2Z0aYgdM"
+    },
+    {
+      "temperatura": 22.9,
+      "humedad": 75,
+      "precipitacion": 0.1,
+      "viento": 2.3,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:45:07.780Z",
+      "id": "yHHyBsXE8MI"
+    },
+    {
+      "temperatura": 22.9,
+      "humedad": 75,
+      "precipitacion": 0.1,
+      "viento": 2.3,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:45:08.468Z",
+      "id": "pUn63Yb8cC4"
+    },
+    {
+      "temperatura": 22.9,
+      "humedad": 75,
+      "precipitacion": 0.1,
+      "viento": 2.3,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:45:34.782Z",
+      "id": "enAsrI8MJQY"
+    },
+    {
+      "temperatura": 22.9,
+      "humedad": 75,
+      "precipitacion": 0.1,
+      "viento": 2.3,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T20:53:16.976Z",
+      "id": "MSOjlu1dQms"
+    },
+    {
+      "temperatura": 22.6,
+      "humedad": 77,
+      "precipitacion": 0.1,
+      "viento": 2.1,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T21:10:39.998Z",
+      "id": "P8cL2y4N5EE"
+    },
+    {
+      "temperatura": 22.6,
+      "humedad": 77,
+      "precipitacion": 0.1,
+      "viento": 2.1,
+      "riesgo": "Precaución",
+      "recomendacion": "🟡 Precaución",
+      "fecha": "2026-09-10T21:10:40.211Z",
+      "id": "bU54HseG_d4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

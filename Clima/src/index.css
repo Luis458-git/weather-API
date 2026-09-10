@@ -1,0 +1,17 @@
+/* index.css - Reset global mínimo */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  width: 100%;
+  max-width: 100%;
+  border: none;
+  min-height: 100vh;
+  text-align: left;
+}
